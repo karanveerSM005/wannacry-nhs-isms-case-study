@@ -6,6 +6,8 @@ This project applies Information Security Management System (ISMS) principles to
 
 > **Academic project:** This repository contains coursework created for educational purposes. It is not an official NHS document or a real operational ISMS.
 
+## Author
+
 Karanveer Singh Malhi
 [LinkedIn](https://www.linkedin.com/in/karanveer-singh-malhi-750793311/)
 
